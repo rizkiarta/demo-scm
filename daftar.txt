@@ -1,3 +1,4 @@
 Daftar Belanja:
 - telur
 - kopi
+- roti
